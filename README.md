@@ -1,2 +1,2 @@
-[My github Pages repo.](http://cgg.github.io)
+[My github Pages repo.](https://cgg.github.io)
 
